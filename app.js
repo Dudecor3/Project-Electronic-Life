@@ -3,6 +3,7 @@
  *
  * This is a simple JS project that creates a small eco-system. Each character will "Decide" on how it moves around
  * this eco-system
+ * this is currently not working or complete (Will be working in the near future!) 
  */
 
 /* create the world!
